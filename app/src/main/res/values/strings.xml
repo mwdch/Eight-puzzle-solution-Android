@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Eight-Puzzle Solution</string>
+    <string name="developer_name">My name is Mohammad Charousaei.</string>
+    <string name="student_number">My student number is 9873108</string>
+    <string name="change_start_state">Change start state</string>
+    <string name="start">Start</string>
+    <string name="start_state">Start state</string>
+    <string name="goal_state">Goal state</string>
+    <string name="uniform_cost_search">Uniform cost search</string>
+    <string name="iterative_deepening_search">Iterative deepening search</string>
+    <string name="a_star">A*</string>
+    <string name="ida_star">IDA*</string>
+    <string name="heuristic1">Heuristic 1</string>
+    <string name="heuristic2">Heuristic 2</string>
+    <string name="heuristic3">Heuristic 3</string>
+    <string name="operations">Operations</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="empty_view">The operation hasn\'t been started</string>
+</resources>
